@@ -1,0 +1,75 @@
+.header {
+	background-color: #DCDCDC;
+	margin-top: -20px;
+}
+
+h1 {
+	margin-bottom: -15px;
+	position: relative;
+	left: 10px;
+	top: 20px;
+}
+
+.list {
+	list-style: none;
+	text-align: right;
+	margin-right: 15px;
+}
+
+.nav {
+	font-size: 18px;
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/**************Search Bar***************/
+.search {
+	margin-left: 10%;
+}
+
+.button{
+	height: 25px;
+	width: 25px;
+}
+
+#bar {
+	width: 600px;
+	border-radius: 2.5%;
+}
+
+/**************Buttons******************/
+.Scroll {
+	margin-top: 25px;
+	text-align: center;
+}
+
+span {
+	border: 1px solid black;
+}
+
+.Previous {
+	border: 1px black solid;
+	border-radius: 5%;
+}
+
+.Next {
+	border: 1px black solid;
+	border-radius: 5%;
+}
+/**************Results******************/
+
+.list2 {
+	list-style: none;
+	text-align: center;
+}
+
+.job {
+	margin-top: 10px;
+	color:#DCDCDC;
+}
